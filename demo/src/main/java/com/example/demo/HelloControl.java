@@ -76,10 +76,5 @@ public class HelloControl {
 			return result;
 		}
 	}
-	private void demo1(){
-		
-		System.out.println("This is my demo!")
-	}
 } 
-
 
